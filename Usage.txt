@@ -1,0 +1,5 @@
+cd /home/xtang/Documents/Development/rpjs/hello
+
+git init
+git add .
+https://github.com/xtang224/hello.git
